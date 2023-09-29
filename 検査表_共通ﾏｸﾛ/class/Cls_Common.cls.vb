@@ -1,4 +1,5 @@
 'FSJD005 検査表出力ﾃﾞｰﾀ
+'test
 
 '印刷種別:直接印刷
 Public InsatsuType0 As String
